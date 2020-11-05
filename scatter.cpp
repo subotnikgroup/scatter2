@@ -29,7 +29,7 @@
 #include <array>
 #include <string>
 #include <numeric>
-#include "external/cxxopts.hpp"
+#include "cxxopts.hpp"
 #include "printmat.hpp"
 
 #include "potential.h"
